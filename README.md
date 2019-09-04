@@ -24,3 +24,4 @@ $c->setCookie($name, $value)
 $c = new SignedCookieLib($expires, $path, $domain, $key, $algo);
 $result = $c->isValid($cookieName, $cookieUnsignedValue);
 ```
+You can use this as an alternative method of validating logged in users with a private key or use this as a simple validation method for changing account passwords and other uses where you might like to use secure validation without dependence on a user information database or other data source.
