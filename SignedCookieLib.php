@@ -1,6 +1,6 @@
 <?php
 /**
- * Creates, validates and deletes secure signed cookies.
+ * Creates and validates secure signed cookies.
  * Cookies are always flagged HttpOnly.
  * Cookies are always flagged Secure.
  *
