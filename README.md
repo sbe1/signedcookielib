@@ -7,7 +7,7 @@ $expires = time()+3600;
 $path = '/';
 $domain = '.example.com';
 $key = 'a cryptographically strong key for HMAC hashes.';
-$key = 'sha256';
+$algo = 'sha256';
 
 $name = 'EXAMPLE_SESSION';
 $value = 'An unsigned string.';
