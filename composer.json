@@ -1,0 +1,24 @@
+{
+    "name": "sbe1/signedcookielib",
+    "description": "Simple library for creating and validating custom session/token cookies that use a cryptographic signature for verification.",
+    "type": "library",
+    "keywords": [
+        "signedcookielib", "cookie", "crypto"
+    ],
+    "homepage": "https://github.com/sbe1/Signed-Cookie-Lib/",
+    "license": "MIT",
+    "authors": [{
+        "name": "Shawn Ewald",
+        "email": "shawn.ewald@gmail.com",
+        "role": "lead"
+    }],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Sbe1\\Webcore\\": "src/"
+        }
+    }
+}
