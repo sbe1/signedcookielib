@@ -1,4 +1,6 @@
 <?php
+namespace Sbe1\Signedcookielib;
+
 /**
  * Creates and validates secure signed cookies.
  * Cookies are always flagged HttpOnly.
