@@ -28,4 +28,4 @@ You can use this as an alternative method of validating logged in users with a p
 
 # Installation
 
-composer require sbe1/signedcookielib
+composer require sbe1/signedcookielib dev-master
