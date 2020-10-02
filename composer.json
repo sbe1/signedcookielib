@@ -5,7 +5,7 @@
     "keywords": [
         "signedcookielib", "cookie", "crypto"
     ],
-    "homepage": "https://github.com/sbe1/Signed-Cookie-Lib/",
+    "homepage": "https://github.com/sbe1/signedcookielib/",
     "license": "MIT",
     "authors": [{
         "name": "Shawn Ewald",
